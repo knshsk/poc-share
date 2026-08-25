@@ -1,0 +1,26 @@
+{
+  "id": 21296901,
+  "name": "ブランチ作成制限",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "shiro-ino/factone-idp-viewer",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [
+        "refs/heads/main",
+        "refs/heads/feature/*",
+        "refs/heads/fix/*"
+      ],
+      "include": [
+        "~ALL"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "creation"
+    }
+  ],
+  "bypass_actors": []
+}
