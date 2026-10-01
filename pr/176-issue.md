@@ -1,6 +1,5 @@
 title:	[Bug] 本番ビルドで Vuetify のユーティリティクラスが効かず、余白やボタンの色が崩れる
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	
