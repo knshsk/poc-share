@@ -1,6 +1,5 @@
 title:	[Bug] 文書登録のドロップゾーンで、解除ボタンに名前が無く、見えないファイル入力にフォーカスが当たり、ファイルのアイコンも出ない
 state:	OPEN
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	

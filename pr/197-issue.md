@@ -1,6 +1,5 @@
 title:	[Bug] 公開閲覧のUser-Agent・接続元IPやDIのエラーメッセージが列の長さを超えると500になる
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	

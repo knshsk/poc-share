@@ -1,6 +1,5 @@
 title:	[Bug] アプリバーの文書タイトルの表示不整合
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	

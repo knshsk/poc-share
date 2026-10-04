@@ -1,6 +1,5 @@
 title:	[Feature] 開始ダイアログを利用者が開閉できるようにし、文書の表示中や取得失敗の後も登録・参照できるようにする
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	feature
 comments:	0
 assignees:	

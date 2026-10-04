@@ -1,6 +1,5 @@
 title:	[Bug] 書類種別一覧の取得エラーが画面に反映されない
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	

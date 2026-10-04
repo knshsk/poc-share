@@ -1,6 +1,5 @@
 title:	[Bug] 文書選択ダイアログと確認ダイアログを閉じると、フォーカスがどの要素にも当たらない
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	

@@ -1,6 +1,5 @@
 title:	[Feature] 文書登録APIに原本ファイル名のフィールドを追加する
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	feature
 comments:	0
 assignees:	

@@ -1,6 +1,5 @@
 title:	[Bug] 書類種別の選択肢が無いとき、選択欄に英語の「No data available」が表示される
 state:	OPEN
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	

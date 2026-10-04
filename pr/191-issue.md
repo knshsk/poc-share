@@ -1,6 +1,5 @@
 title:	[Bug] 原本DLの失敗で取得失敗画面になり、その後の再試行・参照・登録で未保存の修正が確認なしに消える
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	

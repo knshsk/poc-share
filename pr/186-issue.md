@@ -1,6 +1,5 @@
 title:	[Bug] 原本DLの応答前に文書を切り替えると、DL失敗で切替後文書が取得失敗画面になる
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	

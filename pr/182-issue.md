@@ -1,6 +1,5 @@
 title:	[Chore] ドキュメントの文章を読みやすく書き直す
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	chore
 comments:	0
 assignees:	

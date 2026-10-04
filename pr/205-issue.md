@@ -1,6 +1,5 @@
 title:	[Bug] Container Apps上では公開閲覧の接続元IPがingressのIPになり、レート制限を全利用者で共有する
 state:	OPEN
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	

@@ -1,6 +1,5 @@
 title:	[Bug] 画面からの文書登録に失敗すると、APIの英語のエラー文言がそのまま表示される
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	

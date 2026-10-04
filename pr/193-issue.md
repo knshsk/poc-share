@@ -1,6 +1,5 @@
 title:	[Bug] 原本DLボタンを連打すると取得要求が重なり、閲覧URLでは閲覧ログにDLが重複して記録される
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	

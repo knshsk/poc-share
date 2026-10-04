@@ -1,6 +1,5 @@
 title:	[Bug] 先頭だけが%PDFの壊れたファイルを登録でき、同じ文書IDに正しいPDFを登録し直すと409になる
 state:	CLOSED
-author:	shiro-ino (しろいの)
 labels:	bug
 comments:	0
 assignees:	
